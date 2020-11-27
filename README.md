@@ -57,7 +57,7 @@ For instance, given the following:
 | abcd123	| a,b,c |
 
 We would like to derive something like:
-<center>
+
 | business_id	| category |
 |:-----------:|:--------:|
 | abcd123	| a |
@@ -65,7 +65,7 @@ We would like to derive something like:
 | abcd123	| b |
 |:-----------:|:--------:|
 | abcd123	| c |
-</center>
+
 
 ## Part III: Do Yelp Reviews Skew Negative?
 To answer the question: are the written reviews generally more pessimistic or more optimistic as compared to the overall business rating. 
