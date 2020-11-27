@@ -40,3 +40,7 @@ To answer the question: are the written reviews generally more pessimistic or mo
 <img width="601" alt="Capture03" src="https://user-images.githubusercontent.com/52837649/100483635-a3395200-30c7-11eb-9502-0234714903b5.PNG">
 </p>
 
+<p align="center">
+<img width="604" alt="Capture04" src="https://user-images.githubusercontent.com/52837649/100483714-dda2ef00-30c7-11eb-9e7b-35b1333617fa.PNG">
+</p>
+
