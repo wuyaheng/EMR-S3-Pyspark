@@ -2,15 +2,15 @@
 
 In this project, I analyzed a subset of the Yelp's business, reviews and user data to answer the following three questions:
 
-*Do Yelp Reviews Skew Negative?
-*Should the Elite be Trusted?
-*What is the Most Recommended Restaurant?
+* Do Yelp Reviews Skew Negative?
+* Should the Elite be Trusted?
+* What is the Most Recommended Restaurant?
 
 The three datasets used in this project originally come from [Kaggle](https://www.kaggle.com/yelp-dataset/yelp-dataset) and they have been uploaded into an S3 bucket: 
 
-*s3://yelpreviewdataset/yelp_academic_dataset_business.json
-*s3://yelpreviewdataset/yelp_academic_dataset_review.json
-*s3://yelpreviewdataset/yelp_academic_dataset_user.json
+* s3://yelpreviewdataset/yelp_academic_dataset_business.json
+* s3://yelpreviewdataset/yelp_academic_dataset_review.json
+* s3://yelpreviewdataset/yelp_academic_dataset_user.json
 
 ## Notebook Configuration
 ![notebook_configuration](https://user-images.githubusercontent.com/52837649/100153582-4e50ce00-2e72-11eb-9ab0-6a7142c9ee81.png)
