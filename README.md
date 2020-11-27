@@ -40,6 +40,12 @@ import pyspark.sql.functions as F
 from pyspark.sql.functions import explode, split, desc, col, avg, udf, when
 ```
 
+```
+business_df = spark.read.json('s3://yelpreviewdataset/yelp_academic_dataset_business.json')
+review_df = spark.read.json('s3://yelpreviewdataset/yelp_academic_dataset_review.json')
+user_df = spark.read.json('s3://yelpreviewdataset/yelp_academic_dataset_user.json')
+```
+
 ## Part II:  Analyzing Categories
 Denormalize the categories that are associated with each business and then running some basic analysis on the result
 
