@@ -61,9 +61,7 @@ We would like to derive something like:
 | business_id	| category |
 |:-----------:|:--------:|
 | abcd123	| a |
-|:-----------:|:--------:|
 | abcd123	| b |
-|:-----------:|:--------:|
 | abcd123	| c |
 
 
