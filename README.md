@@ -29,7 +29,7 @@ To answer the question: are the written reviews generally more pessimistic or mo
 <p align="center">
 <img width="456" alt="Capture01" src="https://user-images.githubusercontent.com/52837649/100476479-ae828280-30b3-11eb-995a-1094c9a95729.PNG">
 </p>
-The distribution of skew appears to be normal, but skewed a little bit to the right. The implications of the above graph are that the satisfaction level of reviewers who left positively skewed reviews is greater than the dissatisfaction level of reviewers who left negatively skewed reviews. In other words, reviewers who left a written response were slightly more satisfied than normal.
+The distribution of skew appears to be normal, but skewed a little bit to the right. The implications of the above graph are that the satisfaction level of reviewers who left positively skewed reviews is greater than the dissatisfaction level of reviewers who left negatively skewed reviews. In other words, reviewers who left a written response were more satisfied than normal.
 
 ## Part IV: Should the Elite be Trusted? 
 <p align="center">
@@ -38,16 +38,17 @@ The distribution of skew appears to be normal, but skewed a little bit to the ri
 As we can see from the above boxplot, elite data has more outliers. Additionally, the first, third quantiles and the median of the elite ratings are also higher than the non-elites' ratings. From my point of view, I would say elite should not be trusted because they tend to give higher ratings compared with the ratings given by non-elite.
 
 ## Part V: What is the Most Recommended Restaurant?
-1. First of all, I used business dataset to filter down to restaurants with five star rating only. Next, I grouped by city to see which city has the most five star rated restaurants. 
+1. First of all, I used business dataset to filter down to restaurants with five star rating only. Next, I grouped by city to see which city has the most five star rated restaurants. From the plot below, we can tell that Las Vegas has the largest number of 5-star rated restaurants. 
 <p align="center">
 <img width="601" alt="Capture03" src="https://user-images.githubusercontent.com/52837649/100483635-a3395200-30c7-11eb-9502-0234714903b5.PNG">
 </p>
-From the plot above, we can tell that Las Vegas has the largest number of 5-star rated restaurants. 
 
+2. Second, I found out that Water Grill has the largest number of reviews left by Yelpers among so many 5-star rated restaurants at Las Vegas. Based on the findings from Part III, reviewers who left a written response were more satisfied than normal, we can conclude that Water Grill must be worth checking out.
 <p align="center">
 <img width="604" alt="Capture04" src="https://user-images.githubusercontent.com/52837649/100483714-dda2ef00-30c7-11eb-9e7b-35b1333617fa.PNG">
 </p>
 
+3. Lastly, I created a WordCloud for the written reviews of the Water Grill, a restaurant that has more than 1750 reviews.
 <p align="center">
 <img width="430" alt="Capture05" src="https://user-images.githubusercontent.com/52837649/100483869-5609b000-30c8-11eb-8536-b56e888f0794.PNG">
 </p>
