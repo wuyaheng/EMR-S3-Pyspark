@@ -29,6 +29,7 @@ To answer the question: are the written reviews generally more pessimistic or mo
 <p align="center">
 <img width="456" alt="Capture01" src="https://user-images.githubusercontent.com/52837649/100476479-ae828280-30b3-11eb-995a-1094c9a95729.PNG">
 </p>
+The distribution of skew appears to be normal, but skewed a little bit to the right. The implications of the above graph are that the satisfaction level of reviewers who left positively skewed reviews is greater than the dissatisfaction level of reviewers who left negatively skewed reviews. In other words, reviewers who left a written response were slightly more satisfied than normal.
 
 ## Part IV: Should the Elite be Trusted? 
 <p align="center">
