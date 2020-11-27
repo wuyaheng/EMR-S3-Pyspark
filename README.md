@@ -29,10 +29,12 @@ To answer the question: are the written reviews generally more pessimistic or mo
 <p align="center">
 <img width="456" alt="Capture01" src="https://user-images.githubusercontent.com/52837649/100476479-ae828280-30b3-11eb-995a-1094c9a95729.PNG">
 </p>
+
 ## Part IV: Should the Elite be Trusted? 
 <p align="center">
 <img width="448" alt="Capture02" src="https://user-images.githubusercontent.com/52837649/100476549-d96cd680-30b3-11eb-8865-5405afb15995.PNG">
 </p>
+
 ## Part V: What is the Most Recommended Restaurant?
 
 
