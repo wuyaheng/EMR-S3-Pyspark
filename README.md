@@ -1,6 +1,6 @@
 # Analyzing 10Gb of Yelp Data
 
-In this project, I analyzed a subset of the Yelp's business, reviews and user data to answer the following three questions:
+In this project, I analyzed a subset of Yelp's business, reviews, and user data to answer the following three questions:
 
 * Do Yelp Reviews Skew Negative?
 * Should the Elite be Trusted?
