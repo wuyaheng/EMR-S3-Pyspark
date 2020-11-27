@@ -36,5 +36,7 @@ To answer the question: are the written reviews generally more pessimistic or mo
 </p>
 
 ## Part V: What is the Most Recommended Restaurant?
-
+<p align="center">
+<img width="601" alt="Capture03" src="https://user-images.githubusercontent.com/52837649/100483635-a3395200-30c7-11eb-9502-0234714903b5.PNG">
+</p>
 
