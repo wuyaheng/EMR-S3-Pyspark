@@ -51,15 +51,15 @@ Denormalize the categories that are associated with each business and then runni
 We need to "break out" these categories from the business ids? One common approach to take is to build an association table mapping a single business id multiple times to each distinct category.
 
 For instance, given the following:
-<center>
+
 | business_id	| categories |
-|-------------|------------|
+|:-----------:|:----------:|
 | abcd123	| a,b,c |
-</center>
+
 We would like to derive something like:
 <center>
 | business_id	| category |
-|-------------|----------|
+|:-----------:|:--------:|
 | abcd123	| a |
 | abcd123	| b |
 | abcd123	| c |
