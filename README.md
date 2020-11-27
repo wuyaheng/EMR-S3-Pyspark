@@ -38,9 +38,11 @@ The distribution of skew appears to be normal, but skewed a little bit to the ri
 As we can see from the above boxplot, elite data has more outliers. Additionally, the first, third quantiles and the median of the elite ratings are also higher than the non-elites' ratings. From my point of view, I would say elite should not be trusted because they tend to give higher ratings compared with the ratings given by non-elite.
 
 ## Part V: What is the Most Recommended Restaurant?
+#### 1. First of all, I used business dataset to filter down to restaurants with five star rating on the yelp only. Next, I grouped by city to see which city has the most five star rated restaurants. 
 <p align="center">
 <img width="601" alt="Capture03" src="https://user-images.githubusercontent.com/52837649/100483635-a3395200-30c7-11eb-9502-0234714903b5.PNG">
 </p>
+From the plot above, we can tell that Las Vegas has the largest number of 5-star rated restaurants. 
 
 <p align="center">
 <img width="604" alt="Capture04" src="https://user-images.githubusercontent.com/52837649/100483714-dda2ef00-30c7-11eb-9e7b-35b1333617fa.PNG">
