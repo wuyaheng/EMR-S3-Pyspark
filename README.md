@@ -26,6 +26,7 @@ Denormalize the categories that are associated with each business and then runni
 
 ## Part III: Do Yelp Reviews Skew Negative?
 To answer the question: are the written reviews generally more pessimistic or more optimistic as compared to the overall business rating. 
+<img width="456" alt="Capture01" src="https://user-images.githubusercontent.com/52837649/100476479-ae828280-30b3-11eb-995a-1094c9a95729.PNG">
 
 ## Part IV: Should the Elite be Trusted? 
 
