@@ -21,7 +21,6 @@ The three datasets used in this project originally come from [Kaggle](https://ww
 ## Part I: Installation and Initial Setup
 Import the necessary dependencies and load datasets as a pyspark dataframe
 ```
-
 from pyspark.sql import SparkSession
 my_spark = SparkSession.builder.getOrCreate()
 sc.install_pypi_package("pandas==1.0.3")
@@ -29,7 +28,6 @@ sc.install_pypi_package("matplotlib==3.2.1")
 sc.install_pypi_package("seaborn==0.10.0")
 sc.install_pypi_package("wordcloud==1.8.1")
 sc.list_packages()
-
 ```
 
 ```
