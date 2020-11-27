@@ -52,8 +52,10 @@ We need to "break out" these categories from the business ids? One common approa
 
 For instance, given the following:
 
-business_id	categories
-|abcd123	| a,b,c |
+| business_id	| categories |
+|-------------|------------|
+| abcd123	| a,b,c |
+
 We would like to derive something like:
 
 | business_id	| category |
