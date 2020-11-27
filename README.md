@@ -48,6 +48,19 @@ user_df = spark.read.json('s3://yelpreviewdataset/yelp_academic_dataset_user.jso
 
 ## Part II:  Analyzing Categories
 Denormalize the categories that are associated with each business and then running some basic analysis on the result
+We need to "break out" these categories from the business ids? One common approach to take is to build an association table mapping a single business id multiple times to each distinct category.
+
+For instance, given the following:
+
+business_id	categories
+|abcd123	| a,b,c |
+We would like to derive something like:
+
+| business_id	| category |
+|-------------|----------|
+| abcd123	| a |
+| abcd123	| b |
+| abcd123	| c |
 
 ## Part III: Do Yelp Reviews Skew Negative?
 To answer the question: are the written reviews generally more pessimistic or more optimistic as compared to the overall business rating. 
