@@ -76,8 +76,8 @@ The distribution of skew appears to be normal, but skewed a little bit to the ri
 <p align="center">
 <img width="380" alt="Capture06" src="https://user-images.githubusercontent.com/52837649/100521487-e94af000-3171-11eb-8b55-c139f1913dd9.PNG">
 </p>
-As we can see from the pie chart above, around 96.14% of Yelpers are non elite, whereas only 3.86% of Yelpers are elite. Therefore, we can anticipate that the distribution of the general/combined rating should be similar to the non elite rating.
-
+As we can see from the pie chart above, around 96.14% of Yelpers are non elite, whereas only 3.86% of Yelpers are elite. Therefore, we can anticipate that the distribution of the general/combined rating should be similar to the non elite rating. 
+<br/>
 
 
 <p align="center">
