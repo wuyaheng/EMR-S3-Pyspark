@@ -86,7 +86,7 @@ As we can see from the pie chart above, around 96.14% of Yelpers are non elite, 
 <p align="center">
 <img width="448" alt="Capture02" src="https://user-images.githubusercontent.com/52837649/100476549-d96cd680-30b3-11eb-8865-5405afb15995.PNG">
 </p>
-As we can see from the above boxplot, elite data has more outliers. Additionally, the first, third quantiles and the median of the elite ratings are also higher than the non-elites' ratings. From my point of view, I would say elite should not be trusted because they tend to give higher ratings compared with the ratings given by non-elite.
+As we can see from the above boxplot, the distribution of the combined ratings is very similar to the distribution of the non elite ratings. On the other side, the first, third quantiles and the median of the elite ratings are apparently higher than the non-elites' ratings. Also, elite ratings showed some outliers below the minimum. From my point of view, I would say elite should not be trusted because they tend to give higher ratings compared with the ratings given by non-elite.
 
 ## Part V: What is the Most Recommended Restaurant?
 1. First of all, I used business dataset to filter down to restaurants with five star rating only. Next, I grouped by city to see which city has the most five star rated restaurants. From the plot below, we can tell that Las Vegas has the largest number of 5-star rated restaurants. 
