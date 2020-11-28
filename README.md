@@ -1,4 +1,4 @@
-# Analyzing 10Gb of Yelp Data
+# Analyzing 10GB of Yelp Data
 
 In this project, I analyzed a subset of Yelp's business, reviews, and user data to answer the following three questions:
 
