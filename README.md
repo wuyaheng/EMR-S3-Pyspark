@@ -1,4 +1,6 @@
-# Analyzing 10GB of Yelp Data
+<h1 align="center">
+Analyzing 10GB of Yelp Data
+</h1>
 
 In this project, I analyzed a subset of Yelp's business, reviews, and user data to answer the following three questions:
 
