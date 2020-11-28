@@ -74,6 +74,10 @@ The distribution of skew appears to be normal, but skewed a little bit to the ri
 
 ## Part IV: Should the Elite be Trusted? 
 <p align="center">
+<img width="380" alt="Capture06" src="https://user-images.githubusercontent.com/52837649/100521487-e94af000-3171-11eb-8b55-c139f1913dd9.PNG">
+</p>
+
+<p align="center">
 <img width="448" alt="Capture02" src="https://user-images.githubusercontent.com/52837649/100476549-d96cd680-30b3-11eb-8865-5405afb15995.PNG">
 </p>
 As we can see from the above boxplot, elite data has more outliers. Additionally, the first, third quantiles and the median of the elite ratings are also higher than the non-elites' ratings. From my point of view, I would say elite should not be trusted because they tend to give higher ratings compared with the ratings given by non-elite.
