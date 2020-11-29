@@ -37,6 +37,8 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+from scipy import stats
+from scipy.stats import norm, skew
 from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 import pyspark.sql.functions as F
 from pyspark.sql.functions import explode, split, desc, col, avg, udf, when
